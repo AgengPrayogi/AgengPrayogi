@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi Guys, Im Ageng Prayogi 👋
 
+![AgengPrayogi](image/Poster%20Yogi.png)
 <!--
 **AgengPrayogi/AgengPrayogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+🔭 I’m currently Looking For a **jobs** that is relate and experienced with **Data And AI** ✋🤚🙌🤗
+🌱 I’m currently learning at [**Digital Talent Scholarship from Komdigi, It is Linear Models in Machine Learning: Fundamental,Application and Competition.**] (https://digitalent.komdigi.go.id/akademi/FGA/program/389)
+
