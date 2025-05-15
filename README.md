@@ -1,6 +1,6 @@
 ## Hi Guys, Im Ageng Prayogi 👋
 
-![AgengPrayogi/AgengPrayogi](image/Poster%20Yogi.png)
+![AgengPrayogi](image/Poster Yogi.png)
 <!--
 **AgengPrayogi/AgengPrayogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
