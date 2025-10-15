@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 🔭 I’m currently Looking For a **jobs** that is relate and experienced with **Data And AI** ✋🤚🙌🤗
-🌱 I’m currently learning at [**Digital Talent Scholarship from Komdigi, It is Linear Models in Machine Learning: Fundamental,Application and Competition.**] (https://digitalent.komdigi.go.id/akademi/FGA/program/389)
+
 
