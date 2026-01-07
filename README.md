@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-🔭 I’m currently Looking For a **jobs** that is relate and experienced with **Data And AI** ✋🤚🙌🤗
+🔭 I’m currently learning **AI Integration** ✋🤚🙌🤗
 
 
