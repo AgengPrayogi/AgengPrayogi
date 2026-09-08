@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 AgengPrayogi/AgengPrayogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-/n
-🌱 I’m currently learning **AI Engineer** ✋🤚🙌🤗
-/n
-👯 I’m looking to a development job, development academy, data science and AI engineer
+-🌱 I’m currently learning **AI Engineer** ✋🤚🙌🤗
+
+-👯 I’m looking to a development job, development academy, data science and AI engineer
 
