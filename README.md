@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 -🌱 I’m currently learning **AI Engineer** ✋🤚🙌🤗
 
--👯 I’m looking to a development job, development academy, data science and AI engineer
+-👯 I’m looking to a development job, development academy, data science and junior AI engineer job.
 
